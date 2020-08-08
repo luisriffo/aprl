@@ -14,4 +14,4 @@ Objetivos del proyecto:
  Realizar conexión a una base de datos dinámica de acuerdo a las especificaciones entregadas
 Integrantes:
 
-Luis Torres
+Luis Riffo
